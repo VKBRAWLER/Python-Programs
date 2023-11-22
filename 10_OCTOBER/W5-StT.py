@@ -1,5 +1,5 @@
 import speech_recognition as sr
-AF = ("10_OCTOBER/billo.wav")
+AF = ("10_OCTOBER/Kyakiya.wav")
 r = sr.Recognizer()
 
 with sr.AudioFile(AF) as source:
